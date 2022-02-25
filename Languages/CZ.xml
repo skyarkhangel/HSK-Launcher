@@ -25,7 +25,7 @@
 	<String Key="CheckRimWorldVersion" Value="Zkontrolovat verzi hry RimWorld" />
 	<String Key="LaunchGameViaSteam" Value="Spustit hru pomocí služby Steam" />
 	<String Key="CloseLauncherAfterGameStartup" Value="Zavřít spouštěč po spuštění hry" />
-	<String Key="CheckUpdatesOnStartup" Value="Check for HSK updates on startup" />
+	<String Key="CheckUpdatesOnStartup" Value="Kontrolovat dostupnost aktualizací módu HSK po spuštění" />
 	<String Key="CheckLauncherUpdatesOnStartup" Value="Kontrolovat dostupnost aktualizací spouštěče po spuštění" />
 	<String Key="OptionsWarning" Value="Mód HSK nemusí fungovat nebo může vykazovat mnoho chyb" />
 	<String Key="ClearLatestVersionInfo" Value="Vymazat informace poslední verze" />
