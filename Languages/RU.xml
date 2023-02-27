@@ -29,7 +29,7 @@
 	<String Key="CheckLauncherUpdatesOnStartup" Value="Проверять обновления лаунчера при запуске" />
 	<String Key="OptionsWarning" Value="HSK может работать неверно!" />
 	<String Key="ClearLatestVersionInfo" Value="Забыть установленную версию" />
-	<String Key="DeleteModsConfigs" Value="Удалить настройки модов" />
+	<String Key="ResetModsConfigs" Value="Сбросить настройки модов" />
 	<String Key="DoneButton" Value="Готово" />
 
 	<String Key="PostInstallActionsWindow" Value="Действия после установки" />
@@ -59,6 +59,6 @@
 	<String Key="InstallingHardCoreSKMessage" Value="Установка Hardcore SK... ({0}%)" />
 
 	<String Key="DetectedAlreadyDownloadedVersionMessage" Value="Обнаружена уже скачанная версия. Вы хотите установить её или перекачать, а затем установить?\n\nДа – установить уже скачанную версию.\nНет – скачать и установить."/>
-	<String Key="ModsConfigsDeletedMessage" Value="Настройки модов удалены." />
+	<String Key="ModsConfigsResetMessage" Value="Настройки модов сброшены." />
 
 </Localization>
