@@ -29,7 +29,7 @@
 	<String Key="CheckLauncherUpdatesOnStartup" Value="Check for launcher updates on startup" />
 	<String Key="OptionsWarning" Value="HSK may not work or work unstable!" />
 	<String Key="ClearLatestVersionInfo" Value="Clear latest version info" />
-	<String Key="DeleteModsConfigs" Value="Delete mods configs" />
+	<String Key="ResetModsConfigs" Value="Reset mods configs" />
 	<String Key="DoneButton" Value="Done" />
 
 	<String Key="PostInstallActionsWindow" Value="Post-install actions" />
@@ -59,6 +59,6 @@
 	<String Key="InstallingHardCoreSKMessage" Value="Installing Hardcore SK... ({0}%)" />
 
 	<String Key="DetectedAlreadyDownloadedVersionMessage" Value="Detected downloaded HSK version. Would you like to install it or redownload version and then install?\n\nYes – install downloaded version.\nNo – download then install."/>
-	<String Key="ModsConfigsDeletedMessage" Value="Mods configuration has been deleted." />
+	<String Key="ModsConfigsResetMessage" Value="Mods configuration has been reset." />
 
 </Localization>
